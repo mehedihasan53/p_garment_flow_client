@@ -36,6 +36,7 @@ const Aside = () => {
 
   return (
     <aside className="bg-gray-900 text-gray-200 w-64 min-h-screen p-6 flex flex-col">
+      {/* title */}
       <h2 className="text-2xl font-bold text-white mb-6">Dashboard</h2>
 
       <nav className="flex flex-col gap-3">
